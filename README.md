@@ -1,4 +1,5 @@
 ### Hi there 👋
+<img width="1357" alt="WX20211008-225050@2x" src="https://user-images.githubusercontent.com/42596180/182818376-f3f92f84-dda3-4f07-82cb-2856346e1786.png">
 
 <!--
 **brain-tangjie/brain-tangjie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
