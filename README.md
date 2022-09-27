@@ -6,7 +6,7 @@ Greetings. I am TJ, a neurosience and AI medicine enthusiast. <br>
 <br><br>1.  👩🏻‍💻 **PERSONA**<br>
 
 &emsp;&emsp;&emsp;**Nationality**&emsp;&emsp;&nbsp;:  China 🇨🇳<br>
-&emsp;&emsp;&emsp;**Tenet**&emsp;&emsp;&emsp;:  Doing science research with strength and doing science popularization with warmth.’ <br>
+&emsp;&emsp;&emsp;**Tenet**&emsp;&emsp;&emsp;:  Doing science research with strength and doing science popularization with warmth. <br>
 
 <!--
 **brain-tangjie/brain-tangjie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
