@@ -22,7 +22,6 @@
 <br><br>2. 🧠 **BRAIN, NEURO and AI**<br>
 - Translator of the [brain book](https://www.amazon.com/dp/1681885638/ref=tsm_1_fb_lk),.
 
-- .
 
 <br><br>5.  🔱 **FUTURE VENTURES**<br>
     
