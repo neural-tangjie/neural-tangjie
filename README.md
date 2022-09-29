@@ -1,4 +1,4 @@
-# <img draggable="false" src="images/wave.gif" alt="Hi" height="45" width="45"/> Hello World~ I'm TANG Jie (唐洁).
+# <img draggable="false" src="images/wave.gif" alt="Hi" height="50" width="50"/> Hello World :) I'm TANG Jie (唐洁).
 <a href=""><img draggable="false" align=center
   src="https://readme-typing-svg.herokuapp.com/?lines=A%20Neurosience%20Enthusiast;Experienced%20Web%20Designer;4%2B%20years%20of%20coding%20experience;Always%20Learning%20New%20Things&font=Poppins&center=true&width=440&height=45&color=70a4fc&vCenter=true&size=22&pause=1000"></a>
 <br>
