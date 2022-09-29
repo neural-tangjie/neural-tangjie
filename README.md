@@ -19,12 +19,17 @@
 
 </h5>
 
+
+
 <br><br>5.  ⌚ **FUTURE VENTURES**<br>
     
     - Systemic Neuroscience
     - Brain Science and Networks
     - Artificial Intelligence and Medical Interdisciplinary
     - STEM Science Popularization and Female Leadership
+    
+ <br><br>6.  🕰️ **PART-TIME WORK**<br>
+&emsp;&emsp;&emsp;I am a freelance translator and Voice Radio Blogger at [Ximalaya](https://www.ximalaya.com/zhubo/106455714)
     
  <br><br>7.  🗣️ **LANGUAGES**<br>
 |LANGUAGE|LEVEL|SCORE|
