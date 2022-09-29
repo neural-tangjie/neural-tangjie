@@ -18,11 +18,12 @@
     - STEM Science Popularization and Female Leadership
     
  <br><br>7.  🗣️ **LANGUAGES**<br>
-|LANGUAGE|LEVEL|SCORES|
+|LANGUAGE|LEVEL|SCORE|
 |-|-|-|
-| Chinese | Native | National Proficiency Test of Putonghua - Level A Grade B |
-| English | Professional | IELTS: 8 |
-| Japanese | Intermediate | N2 |
+| 🇨🇳 Chinese | Native | National Proficiency Test of Putonghua - Level A Grade B |
+| 🇬🇧 English | Professional | IELTS: 8 |
+| 🇯🇵 Japanese | Intermediate | N2 |
+| 🇰🇷 Korean | Elementary | N/A |
 
 
 <br><br>8. #️⃣ **REACH ME**<br>
