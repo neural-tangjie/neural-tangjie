@@ -20,9 +20,9 @@
 </h5>
 
 <br><br>2. 🧠 **BRAIN, NEURO and AI**<br>
-- 👨‍💻 High School CS student at [SNV](https://www.amazon.com/dp/1681885638/ref=tsm_1_fb_lk),.
+- Translator of the [brain book](https://www.amazon.com/dp/1681885638/ref=tsm_1_fb_lk),.
 
-- 💻 C/C++, JS.
+- .
 
 <br><br>5.  🔱 **FUTURE VENTURES**<br>
     
