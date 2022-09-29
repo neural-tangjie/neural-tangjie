@@ -1,7 +1,7 @@
-
+# <img draggable="false" src="images/wave.gif" alt="Hi" height="45" width="45"/> Hello World~ I'm TANG Jie.
+<a href=""><img draggable="false" align=center
+  src="https://readme-typing-svg.herokuapp.com/?lines=A%20neurosience%20enthusiast;Experienced%20Web%20Designer;3%2B%20years%20of%20coding%20experience;Always%20learning%20new%20things&font=Poppins&center=true&width=440&height=45&color=70a4fc&vCenter=true&size=22&pause=1000"></a>
 <br>
-
-### Greetings. I am TJ, a neurosience and AI medicine enthusiast.<br>
 
 <br> <img width="1357" alt="WX20211008-225050@2x" src="https://user-images.githubusercontent.com/42596180/182818376-f3f92f84-dda3-4f07-82cb-2856346e1786.png">
 
