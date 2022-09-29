@@ -8,6 +8,7 @@
 <br><br>1.  👩🏻‍💻 **ME, MYSELF & I**<br>
 
 &emsp;&emsp;&emsp;**Nationality :**&emsp;&emsp;&nbsp;China 🇨🇳<br>
+&emsp;&emsp;&emsp;**Education :**&emsp;&emsp;&nbsp;MS: [UCAS](https://en.wikipedia.org/wiki/University_of_the_Chinese_Academy_of_Sciences), Beijing, Beijing & [AU](https://en.wikipedia.org/wiki/Aarhus_University), Aarhus, Denmark; BS: [NEFU](https://en.wikipedia.org/wiki/Northeast_Forestry_University), Harbin, China.<br>
 &emsp;&emsp;&emsp;**Tenet :**&emsp;&emsp;&emsp;Doing science research with strength and doing science popularization with warmth. <br>
 <table>
   <tr>
