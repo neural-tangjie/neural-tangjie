@@ -20,7 +20,7 @@
  <br><br>7.  🗣️ **LANGUAGES**<br>
 |LANGUAGE|LEVEL|SCORE|
 |-|-|-|
-| 🇨🇳 Chinese | Native | National Proficiency Test of Putonghua - Level A Grade B |
+| 🇨🇳 Chinese | Native | Level A Grade B |
 | 🇬🇧 English | Professional | IELTS: 8 |
 | 🇯🇵 Japanese | Intermediate | N2 |
 | 🇰🇷 Korean | Elementary | N/A |
