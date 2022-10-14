@@ -21,6 +21,7 @@
 
 <br><br>2. 🧠 **BRAIN, NEURO and AI**<br>
 - Translator of the [brain book](https://www.amazon.com/dp/1681885638/ref=tsm_1_fb_lk),.
+- Brain player (rat brain → drosophila brain → monkey brain → human brain → "electronic brain")
 
 <br><br>3. 💻 **SKILL, TOOL and SOFTWARE**<br>
 <div align="center">
