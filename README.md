@@ -28,7 +28,7 @@
 <table>
   <thead>
     <tr>
-      <th colspan="7">Languages</th>
+      <th colspan="7">Languages, level and practices</th>
     </tr>
   </thead>
   <tr>
