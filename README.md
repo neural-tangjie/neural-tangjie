@@ -19,7 +19,7 @@
 
 </h5>
 
-<br><br>2. 🧠 **BRAIN, NEURO and AI**<br>
+<br><br>2. 🧠 **BRAIN, NEURO & AI**<br>
 - Translator of the [brain book](https://www.amazon.com/dp/1681885638/ref=tsm_1_fb_lk),.
 - Brain player (rat brain → drosophila brain → monkey brain → human brain → "electronic brain")
 
@@ -28,7 +28,7 @@
 <table>
   <thead>
     <tr>
-      <th colspan="7">Languages, level and practices</th>
+      <th colspan="7">Languages</th>
     </tr>
   </thead>
   <tr>
@@ -82,7 +82,7 @@
  <br><br>6.  🎙 **PART-TIME WORK**<br>
 &emsp;&emsp;&emsp;I am a freelance translator and Voice Radio Blogger at [Ximalaya](https://www.ximalaya.com/zhubo/106455714)
     
- <br><br>7.  🗣️ **LANGUAGES**<br>
+ <br><br>7.  🗣️ **LANGUAGE, LEVEL & PRACTICE **<br>
 |LANGUAGE|LEVEL|SCORE|
 |-|-|-|
 | 🇨🇳 Chinese | Native | Level A Grade B |
