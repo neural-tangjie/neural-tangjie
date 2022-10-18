@@ -72,7 +72,7 @@
 
 
 
-<br><br>5.  🔱 **FUTURE VENTURES**<br>
+<br><br>5.  🔱 **FUTURE, VENTURE & PLAN**<br>
     
     - Systemic Neuroscience
     - Brain Science and Networks
