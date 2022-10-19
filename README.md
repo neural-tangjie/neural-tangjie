@@ -82,7 +82,7 @@
  <br><br>6.  🎙 **PART-TIME WORK**<br>
 &emsp;&emsp;&emsp;I am a freelance translator and Voice Radio Blogger at [Ximalaya](https://www.ximalaya.com/zhubo/106455714)
     
- <br><br>7.  🗣️ **LANGUAGE, LEVEL & PRACTICE **<br>
+ <br><br>7.  🗣️ **LANGUAGE, LEVEL & PRACTICE**<br>
 |LANGUAGE|LEVEL|SCORE|
 |-|-|-|
 | 🇨🇳 Chinese | Native | Level A Grade B |
