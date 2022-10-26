@@ -24,53 +24,43 @@
 - Brain player (rat brain → drosophila brain → monkey brain → human brain → "electronic brain")
 
 <br><br>3. 💻 **SKILL, TOOL & SOFTWARE**<br>
-<div align="center">
-<table>
-  <thead>
-    <tr>
-      <th colspan="7">Languages</th>
-    </tr>
-  </thead>
-  <tr>
-    <td> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg"/> </td><td> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg"/> </td><td> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg"/> </td><td> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg"/> </td><td> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/> </td><td> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/> </td><td> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"/> </td></tr><tr><td> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg"/> </td><td> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg"/> </td><td> <img width=60 src="https://user-images.githubusercontent.com/27622683/192120006-9901e9c3-7567-4c2b-85b9-b414dc8445cb.png"/> </td><td> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg"/> </td><td> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/> </td><td> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/> </td><td> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/> </td>
-  </tr>
- </table>
-
- <table>
-    <thead>
-    <tr>
-      <th colspan="4">Frameworks</th>
-      <th colspan="3">Agile Methodologies</th>
-    </tr>
-  </thead>
-   <tr>
-    <td><img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-original-wordmark.svg"/> </td><td> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg"/> </td><td> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"/> </td><td> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg"/> </td><td><img width=60 src="https://user-images.githubusercontent.com/27622683/192119071-da8aff75-02b1-4c6d-8232-507b9454cd49.png"/></td><td><img width=60 src="https://user-images.githubusercontent.com/27622683/192119213-9a958b20-d3ba-460e-935f-dccb6a3de7e6.png"/></td><td><img width=60 src="https://user-images.githubusercontent.com/27622683/192119394-0284fdfc-3ad2-460c-8b57-5ed13a2cbfc0.png"/></td>
-  </tr>
- </table>
- <table>
-   <thead>
-   <tr>
-     <th colspan="7">Tools</th>
-    </tr>
-  </thead>
-  <tr>
-    <td><img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/> </td><td> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg"/> </td></tr><tr><td> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/> </td><td> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg"/> </td><td> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg"/> </td> <td> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg"/> </td> <td> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codepen/codepen-plain.svg"/> </td></tr><tr><td> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"/> </td><td> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eslint/eslint-original.svg"/> </td><td> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gradle/gradle-plain.svg"/> </td><td> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-line.svg"/> </td><td> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetbrains/jetbrains-original.svg"/> </td><td> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg"/> </td><td> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original.svg"/>
-    </td> 
-  </tr>
-</table>
- <table>
-    <thead>
-    <tr>
-      <th colspan="7">Operating Systems</th>
-    </tr>
-  </thead>
-   <tr>
-    <td><img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg"/> </td><td> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"/> </td><td> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg"/> </td><td> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg"/> </td><td> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-plain.svg"/> </td><td> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fedora/fedora-plain.svg"/> </td><td> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg"/> </td>
-  </tr>
- </table>
+<div>
+    <img src="https://github.com/prowebdev119/prowebdev119/blob/main/git%20profile%20icons/html_aladdinGene.png" width="60" alt="html" />
+    <img src="https://github.com/prowebdev119/prowebdev119/blob/main/git%20profile%20icons/css_aladdinGene.png" width="60" alt="css" />
+    <img src="https://github.com/prowebdev119/prowebdev119/blob/main/git%20profile%20icons/javascript_aladdinGene.gif" width="60" alt="javascript" />
+    <img src="https://github.com/prowebdev119/prowebdev119/blob/main/git%20profile%20icons/php_aladdinGene.gif" width="60" alt="php" />
+    <img src="https://github.com/prowebdev119/prowebdev119/blob/main/git%20profile%20icons/python_aladdinGene.gif" width="60" alt="python" />
+    <img src="https://github.com/prowebdev119/prowebdev119/blob/main/git%20profile%20icons/ts_aladdinGene.gif" width="60" alt="typescript" />
+    <img src="https://github.com/prowebdev119/prowebdev119/blob/main/git%20profile%20icons/react_aladdinGene.gif" width="60" alt="react" />
+    <img src="https://github.com/prowebdev119/prowebdev119/blob/main/git%20profile%20icons/next_aladdinGene.png" width="60" alt="next" />
+    <img src="https://github.com/prowebdev119/prowebdev119/blob/main/git%20profile%20icons/vue1_aladdinGene.gif" width="60" alt="vue" />
+    <img src="https://github.com/prowebdev119/prowebdev119/blob/main/git%20profile%20icons/nuxt_aladdinGene.avif" width="60" alt="nuxt" />
+    <img src="https://github.com/prowebdev119/prowebdev119/blob/main/git%20profile%20icons/laravel_aladdinGene.jpeg" width="60" alt="laravel" />
+    <img src="https://github.com/prowebdev119/prowebdev119/blob/main/git%20profile%20icons/codeigniter_aladdinGene.png" width="60" alt="codeigniter" />
+    <img src="https://github.com/prowebdev119/prowebdev119/blob/main/git%20profile%20icons/android_aladdinGene.gif" width="60" alt="android" />
+    <img src="https://github.com/prowebdev119/prowebdev119/blob/main/git%20profile%20icons/java_aladdinGene.gif" width="60" alt="Java" />
+    <img src="https://github.com/prowebdev119/prowebdev119/blob/main/git%20profile%20icons/Kotlin_aladdinGene.jfif" width="60" alt="kotlin" />
+    <img src="https://github.com/prowebdev119/prowebdev119/blob/main/git%20profile%20icons/apple_aladdinGene.gif" width="60" alt="iOS" />
+    <img src="https://github.com/prowebdev119/prowebdev119/blob/main/git%20profile%20icons/svg_aladdinGene.gif" width="60" alt="svg" />
+    <img src="https://github.com/prowebdev119/prowebdev119/blob/main/git%20profile%20icons/angular_aladdinGene.gif" width="60" alt="angular" />
+    <img src="https://github.com/prowebdev119/prowebdev119/blob/main/git%20profile%20icons/django_aladdinGene.png" width="60" alt="django" />
+    <img src="https://github.com/prowebdev119/prowebdev119/blob/main/git%20profile%20icons/flask_aladdinGene.png" width="60" alt="flask" />
+    <img src="https://github.com/prowebdev119/prowebdev119/blob/main/git%20profile%20icons/docker_aladdinGene.png" width="60" alt="docker" />
+    <img src="https://github.com/prowebdev119/prowebdev119/blob/main/git%20profile%20icons/aws_aladdinGene.gif" width="60" alt="aws" />
+    <img src="https://github.com/prowebdev119/prowebdev119/blob/main/git%20profile%20icons/kendo_aladdinGene.webp" width="60" alt="kendo" />
+    <img src="https://github.com/prowebdev119/prowebdev119/blob/main/git%20profile%20icons/flutter_aladdinGene.gif" width="60" alt="flutter" />
+    <img src="https://github.com/prowebdev119/prowebdev119/blob/main/git%20profile%20icons/bootstrap_aladdinGene.png" width="60" alt="bootstrap" />
+    <img src="https://github.com/prowebdev119/prowebdev119/blob/main/git%20profile%20icons/csharp_aladdinGene.png" width="60" alt="c&num;" />
+    <img src="https://github.com/prowebdev119/prowebdev119/blob/main/git%20profile%20icons/c++_aladdinGene.png" width="60" alt="c++" />
+    <img src="https://github.com/prowebdev119/prowebdev119/blob/main/git%20profile%20icons/zoho_aladdinGene.jfif" width="60" alt="zoho" />
+    <img src="https://github.com/prowebdev119/prowebdev119/blob/main/git%20profile%20icons/firebase_aladdinGene.webp" width="60" alt="firebase" />
+    <img src="https://github.com/prowebdev119/prowebdev119/blob/main/git%20profile%20icons/git_aladdinGene.gif" width="60" alt="git" />
 </div>
 
-
+<br><br>4.  🌐 **REACH ME ↓**<br>
+&emsp;&emsp;&emsp;
+[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hygiental@gmail.com) &emsp;[![LinkedIn - Jie Tang](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jie-tang-6281b810b/)&emsp;
+[![Twitter - @brain_tangjie](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/brain_tangjie)&emsp;[![Instagram - @brain_tangjie](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white )](https://www.instagram.com/brain_tangjie/)&emsp;[![Facebook - Jie Tang](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/jie.tang.75286/about)&emsp;
 
 <br><br>5.  🔱 **FUTURE, VENTURE & PLAN**<br>
     
@@ -91,10 +81,6 @@
 | 🇰🇷 Korean | Elementary | N/A |
 
 
-<br><br>8.  🌐 **REACH ME ↓**<br>
-&emsp;&emsp;&emsp;
-[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hygiental@gmail.com) &emsp;[![LinkedIn - Jie Tang](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jie-tang-6281b810b/)&emsp;
-[![Twitter - @brain_tangjie](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/brain_tangjie)&emsp;[![Instagram - @brain_tangjie](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white )](https://www.instagram.com/brain_tangjie/)&emsp;[![Facebook - Jie Tang](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/jie.tang.75286/about)&emsp;
 
  ![github-contribution-grid-snake](https://user-images.githubusercontent.com/90142173/154796318-e529fdc7-2132-4ce7-8417-06b71cf02506.svg)
 
