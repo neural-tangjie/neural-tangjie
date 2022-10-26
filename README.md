@@ -4,11 +4,13 @@
 <br>
 
 <br> <img width="1357" alt="WX20211008-225050@2x" src="https://user-images.githubusercontent.com/42596180/182818376-f3f92f84-dda3-4f07-82cb-2856346e1786.png">
-
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 <br><br>1.  👩🏻‍💻 **ME, MYSELF & I**<br>
 
-&emsp;&emsp;&emsp;**Nationality :**&emsp;&emsp;&nbsp;China 🇨🇳<br>
-&emsp;&emsp;&emsp;**Education :**&emsp;&emsp;&nbsp;MS: [UCAS](https://en.wikipedia.org/wiki/University_of_the_Chinese_Academy_of_Sciences), Beijing, China & [AU](https://en.wikipedia.org/wiki/Aarhus_University), Aarhus, Denmark; BS: [NEFU](https://en.wikipedia.org/wiki/Northeast_Forestry_University), Harbin, China.<br>
+&emsp;&emsp;&emsp;
+[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hygiental@gmail.com) &emsp;[![LinkedIn - Jie Tang](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jie-tang-6281b810b/)&emsp;
+[![Twitter - @brain_tangjie](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/brain_tangjie)&emsp;[![Instagram - @brain_tangjie](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white )](https://www.instagram.com/brain_tangjie/)&emsp;[![Facebook - Jie Tang](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/jie.tang.75286/about)&emsp;
+
 &emsp;&emsp;&emsp;**Tenet :**&emsp;&emsp;&emsp;Doing science research with strength and doing science popularization with warmth. <br>
 <table>
   <tr>
@@ -16,12 +18,15 @@
     <td><a align= "center" href="https://github.com/itsme-subid"><img draggable="false" src="https://profile-counter.glitch.me/itsme-subid/count.svg" alt="Visitor Count" height="30" width="224" /></a></td>
   </tr>
 </table>
-
 </h5>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 
 <br><br>2. 🧠 **BRAIN, NEURO & AI**<br>
 - Translator of the [brain book](https://www.amazon.com/dp/1681885638/ref=tsm_1_fb_lk),.
 - Brain player (rat brain → drosophila brain → monkey brain → human brain → "electronic brain")
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 
 <br><br>3. 💻 **SKILL, TOOL & SOFTWARE**<br>
 <div>
@@ -57,10 +62,8 @@
     <img src="https://github.com/prowebdev119/prowebdev119/blob/main/git%20profile%20icons/git_aladdinGene.gif" width="60" alt="git" />
 </div>
 
-<br><br>4.  🌐 **REACH ME ↓**<br>
-&emsp;&emsp;&emsp;
-[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hygiental@gmail.com) &emsp;[![LinkedIn - Jie Tang](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jie-tang-6281b810b/)&emsp;
-[![Twitter - @brain_tangjie](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/brain_tangjie)&emsp;[![Instagram - @brain_tangjie](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white )](https://www.instagram.com/brain_tangjie/)&emsp;[![Facebook - Jie Tang](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/jie.tang.75286/about)&emsp;
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
+
 
 <br><br>5.  🔱 **FUTURE, VENTURE & PLAN**<br>
     
@@ -68,10 +71,14 @@
     - Brain Science and Networks
     - Artificial Intelligence and Medical Interdisciplinary
     - STEM Science Popularization and Female Leadership
-    
+ 
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
+   
  <br><br>6.  🎙 **PART-TIME WORK**<br>
 &emsp;&emsp;&emsp;I am a freelance translator and Voice Radio Blogger at [Ximalaya](https://www.ximalaya.com/zhubo/106455714)
-    
+ 
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
+   
  <br><br>7.  🗣️ **LANGUAGE, LEVEL & PRACTICE**<br>
 |LANGUAGE|LEVEL|SCORE|
 |-|-|-|
@@ -100,4 +107,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+&emsp;&emsp;&emsp;**Nationality :**&emsp;&emsp;&nbsp;China 🇨🇳<br>
+&emsp;&emsp;&emsp;**Education :**&emsp;&emsp;&nbsp;MS: [UCAS](https://en.wikipedia.org/wiki/University_of_the_Chinese_Academy_of_Sciences), Beijing, China & [AU](https://en.wikipedia.org/wiki/Aarhus_University), Aarhus, Denmark; BS: [NEFU](https://en.wikipedia.org/wiki/Northeast_Forestry_University), Harbin, China.<br>
 -->
+
