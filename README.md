@@ -35,6 +35,8 @@
     <img src="https://github.com/prowebdev119/prowebdev119/blob/main/git%20profile%20icons/javascript_aladdinGene.gif" width="60" alt="javascript" />
     <img src="https://github.com/prowebdev119/prowebdev119/blob/main/git%20profile%20icons/php_aladdinGene.gif" width="60" alt="php" />
     <img src="https://github.com/prowebdev119/prowebdev119/blob/main/git%20profile%20icons/python_aladdinGene.gif" width="60" alt="python" />
+    <img src="https://github.com/neural-tangjie/neural-tangjie/blob/main/images/Matlab_logo.png" width="60" alt="matlab" />
+    <img src="https://github.com/neural-tangjie/neural-tangjie/blob/main/images/R_logo.gif" width="60" alt="r" />
     <img src="https://github.com/prowebdev119/prowebdev119/blob/main/git%20profile%20icons/ts_aladdinGene.gif" width="60" alt="typescript" />
     <img src="https://github.com/prowebdev119/prowebdev119/blob/main/git%20profile%20icons/react_aladdinGene.gif" width="60" alt="react" />
     <img src="https://github.com/prowebdev119/prowebdev119/blob/main/git%20profile%20icons/next_aladdinGene.png" width="60" alt="next" />
