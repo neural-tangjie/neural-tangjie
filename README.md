@@ -23,8 +23,9 @@
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 
 <br><br>2. 🧠 **BRAIN, NEURO & AI**<br>
-- Translator of the [brain book](https://www.amazon.com/dp/1681885638/ref=tsm_1_fb_lk),.
-- Brain player (rat brain → drosophila brain → monkey brain → human brain → "electronic brain")
+- Translator of the popular science book [Brains Explained](https://www.amazon.com/dp/1681885638/ref=tsm_1_fb_lk), which can be purchased on [JD](https://item.jd.com/13748994.html) and [Dangdang](http://product.dangdang.com/29403765.html).
+- A [Brain player](https://sdc.university/about/news/sdc-alumnus-behind-chinese-edition-of-popular-brain-book/) who has been on the road. Explore and seize the turning point in the rapidly changing world
+- My neural journey: rat brain → drosophila brain → monkey brain → human brain → "electronic brain" (Right here!).
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 
@@ -77,7 +78,7 @@
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
    
  <br><br>6.  🎙 **PART-TIME WORK**<br>
-&emsp;&emsp;&emsp;I am a freelance translator and Voice Radio Blogger at [Ximalaya](https://www.ximalaya.com/zhubo/106455714)
+&emsp;&emsp;&emsp;I am a freelance translator and Voice Radio Blogger at [Ximalaya](https://www.ximalaya.com/zhubo/106455714).
  
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
    
