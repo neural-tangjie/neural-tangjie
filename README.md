@@ -68,7 +68,7 @@
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 
 
-<br><br>5.  🔱 **FUTURE, VENTURE & PLAN**<br>
+<br><br>5.  🔱 **FUTURE, VENTURE & CREATURE**<br>
     
     - Systemic Neuroscience
     - Brain Science and Networks
