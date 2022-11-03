@@ -1,10 +1,12 @@
 # <img draggable="false" src="images/wave.gif" alt="Hi" height="50" width="50"/> Hello World :) I'm TANG Jie (唐洁)
-
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=C20EF7&background=FFEF6F00&center=true&width=435&lines=A+Neuroscience++Enthusiast+%F0%9F%A7%A0;Python+%7C+HTML+%7C+CSS+%7C+Matlab+%7C+Git;Always+embrace+learning+new+things" alt="Typing SVG" /></a>
+<p align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=950&color=C20EF7&background=FFE7CB57&vCenter=true&width=500&lines=A+Neuroscience++%26+AI+Enthusiast+%F0%9F%A7%A0;Neuroimaging+%7C++Brain+Science+%7C+Healthcare+;Python+%7C+HTML+%7C+CSS+%7C+Matlab+%7C+Git;Always+embrace+learning+new+things" alt="Typing SVG" /></a>
+</p>
 <br> <img width="1357" alt="WX20211008-225050@2x" src="https://user-images.githubusercontent.com/42596180/182818376-f3f92f84-dda3-4f07-82cb-2856346e1786.png">
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
-<br><br>1.  👩🏻‍💻 **ME, MYSELF & I**<br>
 
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
+
+<br><br>1.  👩🏻‍💻 **ME, MYSELF & I**<br>
 &emsp;&emsp;&emsp;
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hygiental@gmail.com) &emsp;[![LinkedIn - Jie Tang](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jie-tang-6281b810b/)&emsp;
 [![Twitter - @brain_tangjie](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/brain_tangjie)&emsp;[![Instagram - @brain_tangjie](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white )](https://www.instagram.com/brain_tangjie/)&emsp;[![Facebook - Jie Tang](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/jie.tang.75286/about)&emsp;
@@ -99,6 +101,7 @@
 Here are some ideas to get you started:
 
 
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=C20EF7&background=FFEF6F00&center=true&width=435&lines=A+Neuroscience++Enthusiast+%F0%9F%A7%A0;Python+%7C+HTML+%7C+CSS+%7C+Matlab+%7C+Git;Always+embrace+learning+new+things" alt="Typing SVG" /></a>
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
