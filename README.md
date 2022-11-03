@@ -1,8 +1,6 @@
 # <img draggable="false" src="images/wave.gif" alt="Hi" height="50" width="50"/> Hello World :) I'm TANG Jie (唐洁)
-<a href=""><img draggable="false" align=center
-  src="https://readme-typing-svg.herokuapp.com/?lines=A%20Neurosience%20Enthusiast;Experienced%20Web%20Designer;6%2B%20years%20of%20coding%20experience;Always%20Learning%20New%20Things&font=Poppins&center=true&width=440&height=45&color=70a4fc&vCenter=true&size=22&pause=1000"></a>
-<br>
 
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=C20EF7&background=FFEF6F00&center=true&width=435&lines=A+Neuroscience++Enthusiast+%F0%9F%A7%A0;Python+%7C+HTML+%7C+CSS+%7C+Matlab+%7C+Git;Always+embrace+learning+new+things" alt="Typing SVG" /></a>
 <br> <img width="1357" alt="WX20211008-225050@2x" src="https://user-images.githubusercontent.com/42596180/182818376-f3f92f84-dda3-4f07-82cb-2856346e1786.png">
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 <br><br>1.  👩🏻‍💻 **ME, MYSELF & I**<br>
