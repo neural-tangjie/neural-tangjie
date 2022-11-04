@@ -88,6 +88,8 @@
 |LANGUAGE|LEVEL|SCORE|
 |-|-|-|
 | 🇨🇳 Chinese | Native | Level A Grade B |
+| 🇺🇸 English | Professional | TOEFL: 116 |
+| 🇺🇸 English | Professional | GRE: 168 + 170 + 4.5 |
 | 🇬🇧 English | Professional | IELTS: 8 |
 | 🇯🇵 Japanese | Intermediate | N2 |
 | 🇰🇷 Korean | Elementary | N/A |
