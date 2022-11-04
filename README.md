@@ -78,7 +78,8 @@
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
    
  <br><br>6.  🎙 **PART-TIME WORK**<br>
-&emsp;&emsp;&emsp;I am a freelance translator and Voice Radio Blogger at [Ximalaya](https://www.ximalaya.com/zhubo/106455714).
+&emsp;&emsp;&emsp;I am a freelance translator and Voice Radio Blogger at [Ximalaya](https://www.ximalaya.com/zhubo/106455714). <br>
+&emsp;&emsp;&emsp;At the same time, I am committed to the voluntary service of women's science and technology associations, [Ladies Who Tech](https://www.ladieswhotech.cn/) which was started by women who are in the STEM industries and believe in challenging the status quo by encouraging more women to assist and discover their potential in STEM. We want to raise awareness of the lack of women in the STEM industries and help companies to have more diversity.
  
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
    
