@@ -97,6 +97,8 @@
  - I also want to learn Spanish, French, Arabic and Hebrew! (Anyone want to language swap?)<br>
 
  ![github-contribution-grid-snake](https://user-images.githubusercontent.com/90142173/154796318-e529fdc7-2132-4ce7-8417-06b71cf02506.svg)
+ From a loyal, friendly and simple online neighbor
+ <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 
 
 <!--
