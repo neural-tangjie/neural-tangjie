@@ -1,6 +1,6 @@
 # <img draggable="false" src="images/wave.gif" alt="Hi" height="50" width="50"/> Hello World :) I'm TANG Jie (唐洁)
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=950&color=C20EF7&background=FFE7CB57&vCenter=true&width=500&lines=A+Neuroscience++%26+AI+Enthusiast+%F0%9F%A7%A0;Neuroimaging+%7C++Brain+Science+%7C+Healthcare+;Python+%7C+HTML+%7C+CSS+%7C+Matlab+%7C+Git;Always+embrace+learning+new+things" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=950&color=C20EF7&background=FFE7CB57&vCenter=true&width=500&lines=A+Neuroscience++%26+AI+Enthusiast+%F0%9F%A7%A0;Neuroimaging+%7C++Brain+Science+%7C+Healthcare+;Python+%7C+HTML+%7C+CSS+%7C+Matlab+%7C+Git;Always+embrace+learning+new+things!" alt="Typing SVG" /></a>
 </p>
 <br> <img width="1357" alt="WX20211008-225050@2x" src="https://user-images.githubusercontent.com/42596180/182818376-f3f92f84-dda3-4f07-82cb-2856346e1786.png">
 
