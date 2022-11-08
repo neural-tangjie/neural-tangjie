@@ -23,7 +23,7 @@
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 
 <br><br>2. 🧠 **BRAIN, NEURO & AI**<br>
-- A [Brain player](https://sdc.university/about/news/sdc-alumnus-behind-chinese-edition-of-popular-brain-book/) who has been on the road. Explore and seize the turning point in the rapidly changing world
+- A [Brain player](https://sdc.university/about/news/sdc-alumnus-behind-chinese-edition-of-popular-brain-book/) who has been on the road. Explore and seize the turning point in the rapidly changing world.
 - Translator of the popular science book [Brains Explained](https://www.amazon.com/dp/1681885638/ref=tsm_1_fb_lk), which can be purchased on [JD](https://item.jd.com/13748994.html) and [Dangdang](http://product.dangdang.com/29403765.html).
 - My neural journey: rat brain → drosophila brain → monkey brain → human brain → "electronic brain" (Right here!).
 
@@ -81,7 +81,7 @@
     <tbody>
         <tr>
             <td>1</td>
-            <td>Network intrusion detection based on deep learning method in internet of thing.</td>
+            <td>Artificial Intelligence–Assisted Bone Age Assessment to Improve the Accuracy and Consistency of Physicians With Different Levels of Experience.</td>
             <td>2022</td>
             <td><a href="https://www.frontiersin.org/journals/pediatrics" rel="nofollow">Frontiers in Pediatrics</a></td>
             <td><a href="https://www.frontiersin.org/articles/10.3389/fped.2022.818061/full?&utm_source=Email_to_authors_&utm_medium=Email&utm_content=T1_11.5e1_author&utm_campaign=Email_publication&field=&journalName=Frontiers_in_Pediatrics&id=818061" rel="nofollow">Full Text</a></td>
@@ -133,7 +133,8 @@
  - I also want to learn Spanish, French, Arabic and Hebrew! (Anyone want to language swap?)<br>
 
  ![github-contribution-grid-snake](https://user-images.githubusercontent.com/90142173/154796318-e529fdc7-2132-4ce7-8417-06b71cf02506.svg)<br>
- From a loyal, friendly and simple online neighbor
+ 
+ **From a loyal, friendly and simple online neighbor.** <br>
  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 
 
