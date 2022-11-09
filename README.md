@@ -8,7 +8,7 @@
 
 <br><br>1.  👩🏻‍💻 **ME, MYSELF & I**<br>
 
-Although I started out with a biology background as an undergraduate, I found that I had a strong interest in programming after being involved in taking charge of [wiki building](https://2016.igem.org/Team:NEFU_China) and code writing in International Genetically Engineered Machine (iGEM) in my junior year. <br>So I started to work in the field of combining medical and artificial intelligence in my master's degree, and I am committed to explore and discover in the interdisciplinary field.<br>
+Although I started out with a biology background as an undergraduate, I found that I had a strong interest in programming after being involved in taking charge of [wiki building](https://2016.igem.org/Team:NEFU_China) and code writing in International Genetically Engineered Machine [(iGEM)](https://igem.org/) in my junior year. <br>So I started to work in the field of combining medical [(DRCMR)](https://www.drcmr.dk/) and artificial intelligence [(CASIA)](http://english.ia.cas.cn/) in my master's degree, and I am committed to explore and discover in the interdisciplinary field.<br>
 
 &emsp;&emsp;&emsp;
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hygiental@gmail.com) &emsp;[![LinkedIn - Jie Tang](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jie-tang-6281b810b/)&emsp;
