@@ -15,13 +15,7 @@ Although I started out with a biology background as an undergraduate, I found th
 [![Twitter - @brain_tangjie](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/brain_tangjie)&emsp;[![Instagram - @brain_tangjie](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white )](https://www.instagram.com/brain_tangjie/)&emsp;[![Facebook - Jie Tang](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/jie.tang.75286/about)&emsp;
 
 &emsp;&emsp;&emsp;**Tenet :**&emsp;&emsp;&emsp;Doing science research with strength and doing science popularization with warmth. <br>
-<table>
-  <tr>
-    <td>Visitors</td>
-    <td><a align= "center" href="https://github.com/itsme-subid"><img draggable="false" src="https://profile-counter.glitch.me/itsme-subid/count.svg" alt="Visitor Count" height="30" width="224" /></a></td>
-  </tr>
-</table>
-</h5>
+
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 
@@ -138,6 +132,14 @@ Although I started out with a biology background as an undergraduate, I found th
  ![github-contribution-grid-snake](https://user-images.githubusercontent.com/90142173/154796318-e529fdc7-2132-4ce7-8417-06b71cf02506.svg)<br>
  
  **From a loyal, friendly and simple online neighbor.** <br>
+ 
+ <table>
+  <tr>
+    <td>Visitors</td>
+    <td><a align= "center" href="https://github.com/itsme-subid"><img draggable="false" src="https://profile-counter.glitch.me/itsme-subid/count.svg" alt="Visitor Count" height="30" width="224" /></a></td>
+  </tr>
+</table>
+</h5>
  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 
 
