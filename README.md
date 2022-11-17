@@ -78,30 +78,37 @@ Although I started out with a biology background as an undergraduate, I found th
     <tbody>
         <tr>
             <td>1</td>
-            <td>Artificial Intelligence–Assisted Bone Age Assessment to Improve the Accuracy and Consistency of Physicians With Different Levels of Experience.</td>
+            <td>Paper —— Artificial Intelligence–Assisted Bone Age Assessment to Improve the Accuracy and Consistency of Physicians With Different Levels of Experience.</td>
             <td>2022</td>
             <td><a href="https://www.frontiersin.org/journals/pediatrics" rel="nofollow">Frontiers in Pediatrics</a></td>
             <td><a href="https://www.frontiersin.org/articles/10.3389/fped.2022.818061/full?&utm_source=Email_to_authors_&utm_medium=Email&utm_content=T1_11.5e1_author&utm_campaign=Email_publication&field=&journalName=Frontiers_in_Pediatrics&id=818061" rel="nofollow">Full Text</a></td>
         </tr>
         <tr>
             <td>2</td>
-            <td>The application of artificial intelligence to chest medical image analysis.</td>
+            <td>Paper —— The application of artificial intelligence to chest medical image analysis.</td>
             <td>2021</td>
             <td><a href="https://www.sciencedirect.com/journal/intelligent-medicine" rel="nofollow">Intelligent Medicine</a></td>
             <td><a href="https://www.sciencedirect.com/science/article/pii/S2667102621000358" rel="nofollow">Full Text</a></td>
         </tr>
         <tr>
             <td>3</td>
-            <td>Gray matter abnormalities in obsessive-compulsive disorder by voxel-based morphometry research.</td>
+            <td>Paper —— Gray matter abnormalities in obsessive-compulsive disorder by voxel-based morphometry research.</td>
             <td>2021</td>
             <td><a href="http://jpxb.bjmu.edu.cn/EN/0529-1356/home.shtml" rel="nofollow">Acta Anatomica Sinica</a></td>
             <td><a href="http://jpxb.bjmu.edu.cn/EN/10.16098/j.issn.0529-1356.2021.05.004" rel="nofollow">Full Text</a></td>
         </tr>
         <tr>
-            <td>3</td>
-            <td>Gray matter abnormalities in obsessive-compulsive disorder by voxel-based morphometry research.</td>
-            <td>2021</td>
-            <td><a href="http://jpxb.bjmu.edu.cn/EN/0529-1356/home.shtml" rel="nofollow">Acta Anatomica Sinica</a></td>
+            <td>4</td>
+            <td>Poster —— The Application of Human Brainnetome Atlas in Mental Disorder focus on Insula.</td>
+            <td>2019</td>
+            <td><a href="https://www.humanbrainmapping.org/i4a/pages/index.cfm?pageid=3882)" rel="nofollow">OHBM-Rome</a></td>
+            <td><a href="http://jpxb.bjmu.edu.cn/EN/10.16098/j.issn.0529-1356.2021.05.004" rel="nofollow">Full Text</a></td>
+        </tr> 
+       <tr>
+            <td>5</td>
+            <td>Poster —— Subregion‐specific Insular Morphological Changes across Mental Disorders.</td>
+            <td>2020</td>
+            <td><a href="https://www.humanbrainmapping.org/i4a/pages/index.cfm?pageid=3958" rel="nofollow">OHBM-Online</a></td>
             <td><a href="http://jpxb.bjmu.edu.cn/EN/10.16098/j.issn.0529-1356.2021.05.004" rel="nofollow">Full Text</a></td>
         </tr>
     </tbody>
