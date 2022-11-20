@@ -141,7 +141,7 @@ Although I started out with a biology background as an undergraduate, I found th
 | 🇯🇵 Japanese | Intermediate | N2 |
 | 🇰🇷 Korean | Elementary | N/A |
  - In addition to computer language, I am also interested in various languages and dialects. <br>
- - I also want to learn Spanish, French, Arabic and Hebrew! (Anyone want to language swap?)<br>
+ - I also want to learn Spanish, French, Arabic and Hebrew vv! (Anyone want to language swap?)<br>
 
  ![github-contribution-grid-snake](https://user-images.githubusercontent.com/90142173/154796318-e529fdc7-2132-4ce7-8417-06b71cf02506.svg)<br>
  
