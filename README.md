@@ -111,6 +111,19 @@ Although I started out with a biology background as an undergraduate, I found th
             <td><a href="https://www.humanbrainmapping.org/i4a/pages/index.cfm?pageid=3958" rel="nofollow">OHBM-Online</a></td>
             <td><a href="http://jpxb.bjmu.edu.cn/EN/10.16098/j.issn.0529-1356.2021.05.004" rel="nofollow">Full Text</a></td>
         </tr>
+        <tr>
+            <td>6</td>
+            <td>Talk —— Subregion‐specific Insular Morphological Changes across Mental Disorders.</td>
+            <td>2020</td>
+            <td><a href="https://www.sdu.edu.cn/" rel="nofollow">Shandong University-Computational Medicine and Digital Human Engineering</a></td>
+            <td><a href="https://mp.weixin.qq.com/s/n4EN9lq_MKRa--V-PeVMAw" rel="nofollow">Full Text</a></td>
+        </tr>
+         <td>7</td>
+            <td>Talk —— Subregion‐specific Insular Morphological Changes across Mental Disorders.</td>
+            <td>2019</td>
+            <td><a href="http://zgszyx.org.cn/" rel="nofollow">9th National Congress of Digital Medicine</a></td>
+            <td><a href="https://www.view.sdu.edu.cn/info/1021/125627.htm" rel="nofollow">Full Text</a></td>
+        </tr>
     </tbody>
 </table>
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
