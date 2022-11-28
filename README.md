@@ -158,7 +158,7 @@ Although I started out with a biology background as an undergraduate, I found th
 
  ![github-contribution-grid-snake](https://user-images.githubusercontent.com/90142173/154796318-e529fdc7-2132-4ce7-8417-06b71cf02506.svg)<br>
  
- **From a loyal, friendly and simple online your neighbor. :)** <br>
+ **From a loyal, friendly and simple, your online neighbor. :)** <br>
  
  <table>
   <tr>
