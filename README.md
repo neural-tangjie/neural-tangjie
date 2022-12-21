@@ -101,14 +101,14 @@ Although I started out with a biology background as an undergraduate, I found th
             <td>4</td>
             <td>Poster —— The Application of Human Brainnetome Atlas in Mental Disorder focus on Insula.</td>
             <td>2019</td>
-            <td><a href="https://www.humanbrainmapping.org/i4a/pages/index.cfm?pageid=3882)" rel="nofollow">OHBM-Rome</a></td>
+            <td><a href="https://www.humanbrainmapping.org/i4a/pages/index.cfm?pageid=3882)" rel="nofollow">The Organization for Human Brain Mapping  (OHBM)-Rome</a></td>
             <td><a href="http://jpxb.bjmu.edu.cn/EN/10.16098/j.issn.0529-1356.2021.05.004" rel="nofollow">Full Text</a></td>
         </tr> 
        <tr>
             <td>5</td>
             <td>Poster —— Subregion‐specific Insular Morphological Changes across Mental Disorders.</td>
             <td>2020</td>
-            <td><a href="https://www.humanbrainmapping.org/i4a/pages/index.cfm?pageid=3958" rel="nofollow">OHBM-Online</a></td>
+            <td><a href="https://www.humanbrainmapping.org/i4a/pages/index.cfm?pageid=3958" rel="nofollow">The Organization for Human Brain Mapping  (OHBM)-Online</a></td>
             <td><a href="http://jpxb.bjmu.edu.cn/EN/10.16098/j.issn.0529-1356.2021.05.004" rel="nofollow">Full Text</a></td>
         </tr>
         <tr>
